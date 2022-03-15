@@ -1,4 +1,6 @@
-
+#findbody{
+    height: 700px;
+}
 .find-icons{
     display: flex;
     justify-content: space-between;
