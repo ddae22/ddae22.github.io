@@ -1,6 +1,4 @@
-body{
-    height: 800px;
-}
+
 .find-icons{
     display: flex;
     justify-content: space-between;
@@ -128,8 +126,4 @@ body{
 .open-post__heart-count:hover i{
     will-change: transform;
     animation: heartbeat 1s linear infinite;
-}
-.status-bar{
-    background-color: white;
-    
 }
